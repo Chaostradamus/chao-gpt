@@ -41,7 +41,7 @@ function HomePage() {
 
           <div className="space-y-2">
             <p className="infoText">Never trust Ultron and especially</p>
-            <p className="infoText">Never trust Kyrie nor </p>
+            <p className="infoText ">Never Kyrie nor </p>
             <p className="infoText">Ever trust MODOK</p>
           </div>
         </div>
